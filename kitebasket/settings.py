@@ -25,7 +25,7 @@ SECRET_KEY = '2grsq_pe7naz_wyuu8-#!c37nt8#f%rt#kz%_b_4cg8iv4*0$b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kite-basket.herokuapp.com']
 
 
 # Application definition
